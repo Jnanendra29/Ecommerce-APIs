@@ -4,7 +4,7 @@
 
 # Documentation Link 
 **Link Below**
-- https://documenter.getpostman.com/view/23047024/2sA2rDx17a
+- https://documenter.getpostman.com/view/23047024/2sA2xjyqqH
 
 ## Setup
  
